@@ -1,0 +1,35 @@
+{
+  "tavern_owner": {
+    "name": "Gareth the Innkeeper",
+    "role": "Tavern Owner",
+    "personality": "Worried and desperate, but kind-hearted",
+    "description": "A middle-aged human with graying hair and tired eyes",
+    "motivation": "Wants to break the curse on his tavern",
+    "dialogue_style": "Speaks in a hurried, anxious manner"
+  },
+  "mysterious_stranger": {
+    "name": "The Hooded Figure",
+    "role": "Mysterious Stranger",
+    "personality": "Cryptic and knowing",
+    "description": "A figure shrouded in dark robes, face hidden in shadow",
+    "motivation": "Has information about the curse",
+    "dialogue_style": "Speaks in riddles and half-truths"
+  },
+  "guard": {
+    "name": "Captain Marcus",
+    "role": "Town Guard",
+    "personality": "Strict but fair",
+    "description": "A well-armored human with a stern expression",
+    "motivation": "Protect the town",
+    "dialogue_style": "Direct and no-nonsense"
+  },
+  "merchant": {
+    "name": "Silas the Trader",
+    "role": "Merchant",
+    "personality": "Greedy but helpful for a price",
+    "description": "A halfling with a wide smile and calculating eyes",
+    "motivation": "Make profit",
+    "dialogue_style": "Overly friendly, always trying to sell something"
+  }
+}
+

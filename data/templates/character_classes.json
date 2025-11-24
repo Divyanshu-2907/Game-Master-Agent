@@ -1,0 +1,51 @@
+{
+  "fighter": {
+    "name": "Fighter",
+    "description": "A master of weapons and armor, skilled in combat.",
+    "hit_die": 10,
+    "primary_stats": ["strength", "constitution"],
+    "starting_skills": ["athletics", "intimidation"],
+    "starting_equipment": ["longsword", "shield", "chainmail"]
+  },
+  "rogue": {
+    "name": "Rogue",
+    "description": "A stealthy expert in deception and precision strikes.",
+    "hit_die": 8,
+    "primary_stats": ["dexterity", "intelligence"],
+    "starting_skills": ["stealth", "perception", "sleight_of_hand"],
+    "starting_equipment": ["shortsword", "leather_armor", "thieves_tools"]
+  },
+  "wizard": {
+    "name": "Wizard",
+    "description": "A scholar of arcane magic, wielding powerful spells.",
+    "hit_die": 6,
+    "primary_stats": ["intelligence", "wisdom"],
+    "starting_skills": ["arcana", "investigation", "history"],
+    "starting_equipment": ["staff", "spellbook", "robe"]
+  },
+  "cleric": {
+    "name": "Cleric",
+    "description": "A divine servant, healing allies and smiting foes.",
+    "hit_die": 8,
+    "primary_stats": ["wisdom", "charisma"],
+    "starting_skills": ["medicine", "insight", "religion"],
+    "starting_equipment": ["mace", "shield", "holy_symbol"]
+  },
+  "ranger": {
+    "name": "Ranger",
+    "description": "A wilderness expert, skilled in tracking and survival.",
+    "hit_die": 10,
+    "primary_stats": ["dexterity", "wisdom"],
+    "starting_skills": ["survival", "perception", "nature"],
+    "starting_equipment": ["longbow", "shortsword", "leather_armor"]
+  },
+  "bard": {
+    "name": "Bard",
+    "description": "A charismatic performer, inspiring allies with music and magic.",
+    "hit_die": 8,
+    "primary_stats": ["charisma", "dexterity"],
+    "starting_skills": ["performance", "persuasion", "investigation"],
+    "starting_equipment": ["rapier", "lute", "leather_armor"]
+  }
+}
+

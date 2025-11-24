@@ -1,0 +1,52 @@
+{
+  "the_cursed_tavern": {
+    "title": "The Cursed Tavern",
+    "description": "A mysterious curse has befallen the local tavern, causing furniture to come alive and attack patrons.",
+    "difficulty": "medium",
+    "objectives": [
+      "Investigate the tavern",
+      "Discover the source of the curse",
+      "Break the curse",
+      "Make a moral choice about the curse's origin"
+    ],
+    "rewards": {
+      "experience": 500,
+      "gold": 100,
+      "items": ["enchanted_amulet"]
+    },
+    "locations": ["tavern_main_room", "tavern_cellar", "tavern_upper_floor"]
+  },
+  "lost_treasure": {
+    "title": "The Lost Treasure",
+    "description": "An ancient map leads to a hidden treasure, but the path is dangerous.",
+    "difficulty": "hard",
+    "objectives": [
+      "Decipher the map",
+      "Navigate the dangerous path",
+      "Solve the guardian's riddle",
+      "Retrieve the treasure"
+    ],
+    "rewards": {
+      "experience": 750,
+      "gold": 250,
+      "items": ["ancient_artifact"]
+    }
+  },
+  "rescue_mission": {
+    "title": "Rescue the Captives",
+    "description": "Villagers have been kidnapped by bandits. Time is running out.",
+    "difficulty": "medium",
+    "objectives": [
+      "Track the bandits",
+      "Infiltrate their hideout",
+      "Rescue the captives",
+      "Defeat the bandit leader"
+    ],
+    "rewards": {
+      "experience": 600,
+      "gold": 150,
+      "items": ["bandit_leader_key"]
+    }
+  }
+}
+
