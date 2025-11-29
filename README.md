@@ -1,5 +1,7 @@
 # Game Master Agent: AI-Powered D&D Campaign System
 
+![AI Game Master Thumbnail](images/thumbnail.png)
+
 ## **Kaggle AI Agents Intensive Capstone Project - Freestyle Track**
 
 A complete, production-ready Game Master Agent built with Google's Agent Development Kit (ADK) and Gemini AI. This agent acts as an intelligent Dungeon Master for a D&D-style RPG, capable of generating dynamic stories, managing NPCs, handling combat, and maintaining game state across sessions.
@@ -227,6 +229,7 @@ Tools available to the agent:
 ### 1. Multi-turn Conversations
 
 The agent maintains a conversation history that includes:
+
 - All player messages
 - All agent responses
 - Tool call results
@@ -280,10 +283,12 @@ This project is submitted for the **Google 5-Day AI Agents Intensive Course Caps
 ### Submission Requirements Met ✅
 
 **Core Requirements (100/100 points potential)**:
+
 - ✅ **The Pitch (30/30)**: Clear problem statement, innovative solution, compelling value proposition
 - ✅ **Implementation (70/70)**: 5 ADK concepts demonstrated, production-ready code, comprehensive documentation
 
 **Bonus Points Available**:
+
 - ✅ **Gemini AI Integration (5/5)**: Uses gemini-2.0-flash-exp model
 - ⚠️ **Agent Deployment (0/5)**: Code ready for deployment, documentation included
 - ⚠️ **YouTube Video (0/10)**: Not yet created (optional)
@@ -408,4 +413,4 @@ For questions or issues, please refer to the project repository or Kaggle discus
 
 ---
 
-**Good luck with your adventure! May your dice rolls be high and your stories epic! 🎲✨**
+## **Good luck with your adventure! May your dice rolls be high and your stories epic! 🎲✨**
