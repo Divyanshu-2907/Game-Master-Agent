@@ -11,3 +11,6 @@ ENV/
 .DS_Store
 .ipynb_checkpoints
 data/saves/
+
+# Version artifacts
+4.8.0
